@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-STI202203105_Awin-Nur-Cahyo_UTS-MobPro
+# STI202203105_Awin-Nur-Cahyo_UTS-MobPro
 =======
-personal_journal
+# personal_journal
 
 A new Flutter project.
 
